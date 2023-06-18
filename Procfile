@@ -1,1 +1,1 @@
-
+worker: python MyCrypto.py
